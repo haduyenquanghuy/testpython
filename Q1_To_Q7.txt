@@ -1,0 +1,24 @@
+## Q1. What is the difference between list and tuples in Python?
+* Tuples: *
+    - Là kiểu immutable, có thể thay đổi kiểu dữ liệu
+* List: * 
+    - Là kiểu mutable, không thể thay đổi kiểu dữ liệu
+
+## Q2. What are the key features of Python?
+* Dynamic *
+* High level *
+* Free open source *
+* Interpreted programming *
+
+## Q3. What type of language is python?
+* OOP : Object Oriented Programming * 
+
+## Q4. How is Python an interpreted language?
+* Python được gọi là interpreted language bởi vì nó biên dịch code thành mã máy *
+
+## Q5. What is pep 8?
+* Coding convention cho ngôn ngữ Python bao gồm một số rule như cách đặt tên, chọn tên, giao diện code, ngắt dòng,.. 
+
+## Q6. How is memory managed in Python?
+* Phân vùng bộ nhớ ở vùng heap 
+
